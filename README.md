@@ -27,7 +27,7 @@ since 2000. The data refreshes monthly through GitHub Actions.
 
 ## 📊 GitHub stats
 
-<p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
     <img src="assets/stats.svg" alt="GitHub stats">
