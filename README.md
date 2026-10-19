@@ -10,8 +10,7 @@ automating home routers.
 
 **[Pulse](https://github.com/emgeorrk/pulse)** ![stars](https://img.shields.io/github/stars/emgeorrk/pulse?style=flat-square) ![release](https://img.shields.io/github/v/release/emgeorrk/pulse?style=flat-square&sort=semver)<br>
 Native macOS menu bar system monitor: CPU, memory, network, temperatures, fans and power.
-The popular GNOME extension Vitals, rebuilt for the Mac.<br>
-`brew install emgeorrk/tap/pulse`
+The popular GNOME extension Vitals, rebuilt for the Mac.
 
 **[wrtgram](https://github.com/emgeorrk/wrtgram)** ![release](https://img.shields.io/github/v/release/emgeorrk/wrtgram?style=flat-square&sort=semver)<br>
 Telegram bot for OpenWrt routers. Status, connected devices, VPN failover, encrypted
