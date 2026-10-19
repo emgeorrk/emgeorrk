@@ -42,3 +42,8 @@ since 2000. The data refreshes monthly through GitHub Actions.
   <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg">
   <img src="profile-3d-contrib/profile-green-animate.svg" alt="Contribution calendar in 3D">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=emgeorrk&hide_border=true&theme=github-dark-blue">
+  <img src="https://streak-stats.demolab.com?user=emgeorrk&hide_border=true" alt="GitHub streak">
+</picture>
