@@ -2,9 +2,7 @@
 
 Go developer · Saint Petersburg
 
-I build backend services, command-line tools and small native apps that do one
-thing well. I like getting close to the hardware: reading Mac sensors over SMC,
-automating home routers.
+Backend services, CLI tools and small macOS apps.
 
 ## 🚀 Featured projects
 
